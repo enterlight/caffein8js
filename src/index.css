@@ -1,0 +1,23 @@
+
+body {
+    font-family: "Calibri";
+}
+
+.normal {
+    color: darkgray;
+
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.subTitle {
+    text-align: right;
+    font-size: 18pt;
+    margin-top : -15px;
+}
+
+.options {
+    text-align: center;
+}
